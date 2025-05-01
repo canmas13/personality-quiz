@@ -1,1 +1,3 @@
-# personality-quiz
+# 人格吸引力測驗
+
+這是一個靜態網頁小測驗，部署在 GitHub Pages 上，用來測試使用者的人格吸引力風格。
